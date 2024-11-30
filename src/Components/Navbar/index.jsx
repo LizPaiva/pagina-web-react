@@ -78,7 +78,7 @@ const Navbar = () => {
       </ul>
       <ul className='flex items-center gap-3'>
         <li className='text-black/60'>
-          teff@platzi.com
+          Liz@Paiva.com
         </li>
         <li>
           <NavLink
